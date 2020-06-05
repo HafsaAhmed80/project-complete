@@ -1,0 +1,247 @@
+
+
+
+  .active, img{
+     height:600px ;
+     width:  100% ;
+     border: 1px solid red;
+     
+ } 
+ #icon{
+     width: 5.5%;
+     height: 5.5%;
+     display: flex;
+     flex-direction: row;
+ }
+ .nav{
+     padding: 0px;
+     
+ } 
+ ul li a{
+     
+     margin: 2px;
+ }
+ .bg{
+     background-image: url(img/karai.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 680px;
+     width: 50%;
+     
+     background-attachment: fixed;
+ }
+  
+ #align{
+     text-align: center;
+     margin-top: 20% ;
+     /* opacity: 1; */
+     color:white;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 80px;
+    
+ }
+#align2{
+    text-align: center;
+    color:white;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 30px;
+}
+
+    @media screen and (max-width: 627px) {
+   .footer{
+       text-align: center;
+         
+     } 
+     } 
+     @media screen and (max-width: 500px) {
+    #none{
+            justify-content: center !important;
+              
+          } 
+          }  
+     @media screen and (max-width: 500px) {
+            .party,.about{
+                    height: 750px !important;
+                      
+                  } 
+                  }  
+      @media screen and (min-width: 500px) {
+            #icon{
+                justify-items: left;
+                              
+                     } 
+                          }   
+     /* @media screen and (max-width: 500px) {
+            #icon{
+            justify-content: flex-start;
+                                              
+                         } 
+                              }   */
+
+
+
+ .about{ 
+    background-image: url(img/peter2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    
+    background-attachment: fixed;
+} 
+
+#align3{
+    text-align: center;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+  .private{ 
+    background-image: url(img/spring.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    
+    background-attachment: fixed;
+} 
+.image{
+    background-image: url(img/peter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    
+    background-attachment: fixed;
+}
+.setting{
+    text-align: center;
+}
+.reservation{
+    background-image: url(img/private9.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    
+    /* background-attachment: fixed; */
+
+}
+#none{
+    list-style: none;
+    /* margin-left: 105px ; */
+
+    
+}
+ /* #none li{
+    float: left;
+}  */
+#none li a{
+   color:white;
+     
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 6px;
+    
+
+    
+}
+ .h4{
+    
+        background-image: url(img/12.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 640px;
+        width: 100%;
+        
+        background-attachment: fixed;
+    
+}
+#food{
+    width: 80px;
+    height: 70px;
+    border: 3px solid red;
+    border-radius: 70%;
+}
+#card{
+    display: flex;
+    flex-direction: row;
+}
+.menu-list{
+    display: flex;
+    flex-direction: row;
+}
+.menu-price{
+    color: red;
+}
+.party{
+    background-image: url(img/joker.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 600px;        
+        width: 100%;
+         background-attachment: fixed;
+
+}
+#align7{
+    text-align: center;
+    margin-top: 10% ;
+    /* opacity: 1; */
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+#location{
+    background-image: url(img/location2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    
+    background-attachment: fixed;
+}
+#h1{
+    text-align: center;
+    
+}
+#dining{
+    background-image: url(img/location.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    
+    background-attachment: fixed;
+
+}
+#h2{
+    text-align: center;
+}
+body{
+    overflow-x: hidden;
+}
+#dining1{
+    background-image: url(img/nuts.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    
+    background-attachment: fixed;
+
+}
+#clr{
+    color: white;
+}
+#lrc{
+    color:royalblue ;
+}
+#lrc2{
+    color: white;
+}
+
+
+  
+ 
+
+ 
